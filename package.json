@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-website",
+  "version": "0.1.0",
+  "description": "A simple website built with Node, Express and Pug for High Interest Day",
+  "main": "server.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Kids of Holy Apostles",
+  "license": "Holy Apostles School",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "repository": "https://github.com/felixalvez/hid2023"
+}
