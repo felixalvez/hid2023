@@ -21,6 +21,12 @@ app.get("/", (req, res) => {
   });
 });
 
+app.get("/mypage", (req, res) => {
+  res.render("mypage", {
+    title: "My Page",
+  });
+});
+
 */
 
 /* Step 3
