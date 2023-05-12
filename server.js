@@ -13,12 +13,15 @@ app.get("/", (req, res) => {
 });
 */
 
+/*
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Homepage",
     // name: "giannis",
   });
 });
+
+*/
 
 /* Step 3
 app.get("/", (req, res) => {
