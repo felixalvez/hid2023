@@ -4,7 +4,7 @@
   "description": "A simple website built with Node, Express and Pug for High Interest Day",
   "main": "server.js",
   "scripts": {
-    "start": ""
+    "start": "yarn nodemon server.js"
   },
   "author": "Kids of Holy Apostles",
   "license": "Holy Apostles School",

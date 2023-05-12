@@ -1,36 +1,43 @@
 {
   "profiles": [
     {
-      "firstname": "Tom",
-      "lastname": "Jagger",
-      "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Developer, Writer and Speaker",
+      "firstname": "Giannis",
+      "lastname": "Antetokounmpo",
+      "bio": "Giannis Sina Ugo Antetokounmpo (born December 6, 1994) is a Greek-Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA). Antetokounmpo's country of origin, in addition to his size, speed, strength, and ball-handling skills have earned him the nickname 'Greek Freak'. Antetokounmpo is widely regarded as one of the greatest power forwards and one of the greatest European players of all time.",
+      "tagline": "NBA - Basketball",
       "twitter": "https://twitter.com/",
-      "imgSrc": "tom-jagger.jpg",
-      "id": "tom"
+      "imgSrc": "giannis-antetokounmpo.png",
+      "id": "giannis"
     },
 
     {
-      "firstname": "Sarah",
-      "lastname": "You",
-      "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "UX/UI Designer",
+      "firstname": "Aaron",
+      "lastname": "Rodgers",
+      "bio": "Aaron Charles Rodgers (born December 2, 1983) is an American football quarterback for the New York Jets of the National Football League (NFL). Rodgers began his college football career at Butte College in 2002 before transferring to the University of California, Berkeley to play for the California Golden Bears, where he set several career passing records, including lowest single-season and career interception rates. He was selected in the first round of the 2005 NFL Draft by the Green Bay Packers[3] and played for the Packers from 2005 to 2022. Rodgers is regarded amongst the greatest and most talented quarterbacks of all time",
+      "tagline": "NFL - Football",
       "twitter": "https://twitter.com/",
-      "imgSrc": "sarah-you.jpg",
-      "id": "sarah"
+      "imgSrc": "aaron-rodgers.jpg",
+      "id": "aaron"
     },
 
     {
-      "firstname": "Caroline",
-      "lastname": "Green",
-      "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Consultant and Photographer",
+      "firstname": "Alex",
+      "lastname": "Morgan",
+      "bio": "Alexandra Morgan Carrasco (born Alexandra Patricia Morgan; July 2, 1989) is an American professional soccer player who plays as a striker and captains for San Diego Wave FC of the National Women's Soccer League (NWSL), the highest division of women's professional soccer in the United States, and the United States women's national soccer team. She co-captained the United States women's national soccer team with Carli Lloyd and Megan Rapinoe from 2018 to 2020.",
+      "tagline": "NWSL - Soccer",
       "twitter": "https://twitter.com/",
-      "imgSrc": "caroline-green.jpg",
-      "id": "caroline"
+      "imgSrc": "alex-morgan.jpg",
+      "id": "alex"
+    },
+
+    {
+      "firstname": "Lionel",
+      "lastname": "Messi",
+      "bio": "Lionel Andrés Messi (born 24 June 1987), also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Widely regarded as one of the greatest players of all time, Messi has won a record seven Ballon d'Or awards[note 2] and a record six European Golden Shoes, and in 2020 he was named to the Ballon d'Or Dream Team. Until leaving the club in 2021, he had spent his entire professional career with Barcelona, where he won a club-record 34 trophies, including ten La Liga titles, seven Copa del Rey titles and the UEFA Champions League three times.[note 3] With his country, he won the 2021 Copa América and the 2022 FIFA World Cup. A prolific goalscorer and creative playmaker, Messi holds the records for most goals in La Liga (474), most hat-tricks in La Liga (36) and the UEFA Champions League (eight), and most assists in La Liga  and the Copa América . He also has the most international goals by a South American male (102). Messi has scored over 800 senior career goals for club and country, and has the most goals by a player for a single club.",
+      "tagline": "Football",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "lionel-messi.png",
+      "id": "lionel"
     }
   ]
 }
